@@ -1,4 +1,4 @@
-# 
+# Get the ultimate 1Password for macOS integration with elite 1Password for macOS Integration | password-sharing + secure-browsing. Featuring password-sharing and secure-browsing,
 
 
 
